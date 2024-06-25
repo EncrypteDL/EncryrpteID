@@ -1,3 +1,13 @@
 # EncryrpteID-Main-Source
 Main
-c
+Description
+
+Business problem
+
+Solution 
+
+Key Features
+
+Technologies and Tools:
+
+Project Planning And Architect
